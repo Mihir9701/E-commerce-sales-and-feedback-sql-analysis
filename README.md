@@ -9,7 +9,8 @@ This project analyzes e‑commerce sales and customer feedback data using SQL.
 - Stored procedures and automated KPI reporting
 
 ## Files
-- `E-commerce-sales-and-feedback-database.pdf`: Full project slides with SQL queries, ERD, and business insights.
+**E-commerce-sales-and-feedback-database.pdf**  
+Full project overview including ER diagram, SQL queries, business problems, customer segmentation analysis, sales KPIs, and stored procedures for automated reporting.
 
 ## Tools used
 - SQL (joins, aggregations, CASE)
