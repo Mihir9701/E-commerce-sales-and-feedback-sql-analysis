@@ -86,12 +86,6 @@ Complete project documentation including:
 - KPI automation with stored procedures
 - Business insights and recommendations
 
-## Quick Start
-
-- Click the PDF for complete project walkthrough
-- Review database design, SQL logic, and business insights
-- Use as reference for SQL analytics or portfolio demonstration
-
 ## Skills Highlighted
 
 - SQL Analytics
