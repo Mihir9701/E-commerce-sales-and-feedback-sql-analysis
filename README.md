@@ -1,4 +1,4 @@
-# E-Commerce Sales & Customer Feedback Analytics (SQL)
+# E-Commerce Sales & Customer Feedback Analysis (SQL)
 
 **MS Data Analytics student at Touro University**
 
